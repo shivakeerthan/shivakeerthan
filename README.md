@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivakeerthan
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently doing my Masters Degree in Data Science from Northeastern University, Boston
-- 📫 You can reach me on www.linkedin.com/shivakeerthan 
+- 📫 You can reach me on www.linkedin.com/in/shivakeerthan 
 
 <!---
 shivakeerthan/shivakeerthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
